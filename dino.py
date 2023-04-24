@@ -10,8 +10,8 @@ screen_size_display = (width_screen, height_screen) = (600, 150)
 FPS = 60
 gravity = 0.6
 
-black_color = (0,255,0)
-white_color = (255,255,255)
+color = (0,255,0)
+color2 = (255,255,255)
 bg_color = (255, 255, 255)
 
 highest_scores = 0
