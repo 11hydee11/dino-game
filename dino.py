@@ -12,7 +12,7 @@ gravity = 0.6
 
 black_color = (0,255,0)
 white_color = (255,255,255)
-bg_color = (235, 235, 235)
+bg_color = (255, 255, 255)
 
 highest_scores = 0
 
