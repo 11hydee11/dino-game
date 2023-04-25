@@ -7,7 +7,7 @@ from pygame import *
 pygame.init()
 
 screen_size_display = (width_screen, height_screen) = (600, 150)
-FPS = 60
+FPS = 30
 gravity = 0.6
 
 color = (0,255,0)
